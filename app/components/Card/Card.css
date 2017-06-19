@@ -1,0 +1,25 @@
+
+.card-placeholder {
+	display: inline-block;
+	margin: 0.5em;
+	height: 11em;
+}
+
+.reverse-placeholder {
+	display: inline-block;
+	margin: 0.5em;
+	height: 11em;
+}
+
+.card-image {
+	height: 11em;
+}
+
+.card-image-hide {
+	height: 11em;
+	display: none;
+}
+
+.reverse-placeholder img {
+	height: 11em;
+}
